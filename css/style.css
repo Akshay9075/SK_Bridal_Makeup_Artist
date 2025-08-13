@@ -207,15 +207,15 @@
 }
 
 .logo-img {
-    height: 40px;
+    height: 60px;
     width: auto;
-    max-width: 120px;
+    max-width: 150px;
     object-fit: contain;
     transition: var(--transition);
 }
 
 .navbar.scrolled .logo-img {
-    height: 35px;
+    height: 55px;
 }
 
 /* Nav menu */
@@ -1877,3 +1877,4 @@
             from { opacity: 0; }
             to { opacity: 1; }
         }
+
